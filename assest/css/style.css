@@ -1,0 +1,67 @@
+body{
+	color:#fff;
+	background-image: url(../img/background.jpg); no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+a{
+	color:#3498db;
+}
+a:hover{
+	color:#3498db;
+}
+.home{
+	padding-top: 10%;
+}
+.footer{
+	padding-top: 12%;
+}
+.padding{
+	padding-top: 1%;
+}
+
+.city-select {
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid transparent;
+    text-align-last:center;
+    font-size: 24px;
+    height: 44px;
+    line-height: 29px;
+    border: none;
+    box-shadow: none;
+    background-image: none;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+}
+.city-select:focus{
+	border: 1px solid transparent;
+	border-color:transparent;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    outline: none;
+
+}
+option{
+	color:black;
+}
+.text-1{
+    font-weight: 300;
+}
+#clock{
+	padding-top: 60px;
+	font-size: 50px;
+
+}
+.remaining{
+    font-weight: 200;
+    margin-top: 250px;
+}
+#tire{
+	font-weight: 400;
+	border-bottom:solid 1px  white;
+}
